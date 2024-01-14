@@ -9,6 +9,7 @@ function increment(){
     num.innerText=count;
 
 }
+//subesh
 function decrement(){
     count=count-1;
     num.innerText=count;
